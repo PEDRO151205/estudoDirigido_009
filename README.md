@@ -16,7 +16,7 @@ O projeto fornece endpoints para gerenciar:
 
 A API permite **leitura pública (GET)** e protege **operações de escrita (POST, PUT, PATCH, DELETE)** com autenticação.
 
----
+----
 
 ## 🧱 Stack Tecnológica
 
